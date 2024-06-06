@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+     background-image: url("sus.png");
+  background-repeat: repeat-x;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(121, 121, 124);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: #C21B1B;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(110, 110, 114);
+}
+.navbar li{
+    float: left;
+}
+
+#bingus {
+  color: #2BA15B;
+  font-family: 'Minecraft', sans-serif;
+}
+#pingus {
+  font-family: 'Minecraft', sans-serif;
+  color: #DB6F6F;
+  text-align: center;
+}
+
+.hellothere {
+  text-align: center;
+}
+
+#chungus {
+  color: #ABD853;
+  font-family: 'minecraft', sans-serif;
+}
